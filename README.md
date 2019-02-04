@@ -36,6 +36,20 @@ Just goes to show that if you put your mind to it there's nothing that can stop 
 
 The "final" (at time of writing) sketch can be found on my Github https://www.github.com/ralphbacon along with this description and anything else I find that is pertinent.
 
+LINKS LINKS (some might be affiliate links but that doesn't mean I include or exclude or change my editorial at all)  
+
+Typical 10K thermistor (easy to use):  
+https://www.banggood.com/10pcs-NTC-Thermistor-Temperature-Sensor-10K-OHM-MF52-103-3435-1-p-932790.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+
+Example of 10A 240v relay I used, de-rate to 5A and should be OK!  
+https://www.banggood.com/Mini-5V-DC-Power-Relay-SRD5VDCSLC-5-Pin-PCB-Type-p-930170.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+
+Or buy three for a better price:  
+https://www.aliexpress.com/item/Power-Relays-SRE-05VDC-SL-2C-SRE-12VDC-SL-2C-SRE-24VDC-SL-2C-5V-12V/32824080667.html
+
+Low speed (5-6rpm) synchronous motor 220-240V used to swing the heater left and right:  
+https://www.banggood.com/Turntable-Synchronous-Motor-For-Cooker-AC-220V-240V-5-6RPM-5060hz-4W-CWCCW-p-982943.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+
 ---
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so :)
