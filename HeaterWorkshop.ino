@@ -33,7 +33,7 @@
 bool heaterOn = false;
 bool prevHeaterState = false;
 bool rotateState = false;
-bool autoMode = false;
+bool autoMode = false; 
 
 // Seconds between switch on/off (eg 60000 = 1 minute)
 #define switchOnDelay 60000 // milliseconds
