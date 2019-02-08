@@ -37,6 +37,7 @@ Just goes to show that if you put your mind to it there's nothing that can stop 
 The "final" (at time of writing) sketch can be found on my Github https://www.github.com/ralphbacon along with this description and anything else I find that is pertinent.
 
 LINKS LINKS (some might be affiliate links but that doesn't mean I include or exclude or change my editorial at all)  
+If you click an affiliate link it might help fund my YouTube channel anyway so please do try out the links below.
 
 Typical 10K thermistor (easy to use):  
 https://www.banggood.com/10pcs-NTC-Thermistor-Temperature-Sensor-10K-OHM-MF52-103-3435-1-p-932790.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
